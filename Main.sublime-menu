@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Edit",
+        "id": "edit",
+        "children":
+        [
+            {
+                "caption": "LIBG: Generate branch name",
+                "id": "make_my_branch",
+                "command": "make_my_branch"
+            }
+        ]
+    }
+]
